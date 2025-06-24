@@ -6,3 +6,7 @@
 	path = hypr
 	url = git@github.com:aron-hoogeveen/.dotfiles-hypr.git
 	branch = dev
+[submodule "waybar"]
+	path = waybar
+	url = git@github.com:aron-hoogeveen/.dotfiles-waybar.git
+	branch = dev
