@@ -1,0 +1,8 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:aron-hoogeveen/.dotfiles-nvim.git
+	branch = dev
+[submodule "hypr"]
+	path = hypr
+	url = git@github.com:aron-hoogeveen/.dotfiles-hypr.git
+	branch = dev
