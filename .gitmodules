@@ -1,0 +1,9 @@
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:aron-hoogeveen/.dotfiles-nvim.git
+[submodule "waybar/.config/waybar"]
+	path = waybar/.config/waybar
+	url = https://github.com/aron-hoogeveen/.dotfiles-waybar
+[submodule "hypr/.config/hypr"]
+	path = hypr/.config/hypr
+	url = https://github.com/aron-hoogeveen/.dotfiles-hypr
